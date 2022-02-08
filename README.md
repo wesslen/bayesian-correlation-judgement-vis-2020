@@ -1,6 +1,6 @@
 # Overview
 
-Code and supplemental materials for Karduni et al., 2020 IEEE Vis. "A Bayesian cognition approach for belief updating of correlation judgement through uncertainty visualizations"
+Code and supplemental materials for Karduni et al., 2020 IEEE Vis. "A Bayesian cognition approach for belief updating of correlation judgement through uncertainty visualizations" [Arxiv preprint](https://arxiv.org/abs/2008.00058)
 
 # Bayesian Cognitive Modeling
 
