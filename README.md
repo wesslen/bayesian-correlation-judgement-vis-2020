@@ -2,6 +2,10 @@
 
 Code and supplemental materials for Karduni et al., 2020 IEEE Vis. "A Bayesian cognition approach for belief updating of correlation judgement through uncertainty visualizations"
 
+# Bayesian Cognitive Modeling
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uFJCPddP0mSx9hi1Ma9lFYGzUkZr3NtJ?usp=sharing)
+
 # How to Cite
 
 If you this work inspires your research, please cite the following paper:
